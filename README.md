@@ -23,7 +23,7 @@
     <a href="" target='_blank'>
         <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-lightblue">
     </a>&nbsp;
-    <a href="" target='_blank'>
+    <a href="https://xiangxu-0103.github.io/LiMA" target='_blank'>
         <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-blue">
     </a>&nbsp;
     <a href="" target='_blank'>
